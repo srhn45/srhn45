@@ -1,5 +1,3 @@
-# Mustafa Serhan Taskin
-
 Student at Koç University
 - BSc Chemical and Biological Engineering
 - BSc Industrial Engineering
