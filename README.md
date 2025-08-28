@@ -1,4 +1,5 @@
-Student at Koç University
+PhD Student at the University of Florida
+
 - BSc Chemical and Biological Engineering
 - BSc Industrial Engineering
 
