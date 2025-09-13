@@ -1,4 +1,4 @@
-PhD Student at the University of Florida.
+PhD student at the University of Florida.
 
 - BSc Chemical and Biological Engineering from Koc University
 - BSc Industrial Engineering from Koc University
