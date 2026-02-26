@@ -1,7 +1,6 @@
-PhD student at the University of Florida.
+Industrial Engineering PhD student at the University of Florida.
 
-- BSc Chemical and Biological Engineering from Koc University
-- BSc Industrial Engineering from Koc University
+- BSc Industrial Engineering graduate from Koc University
 
 Working with Python and PyTorch/TensorFlow for deep learning projects
 
